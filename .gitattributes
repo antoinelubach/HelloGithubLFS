@@ -1,2 +1,2 @@
-track "*.psd"
-track "*.jpeg"
+*.psd
+*.jpeg
