@@ -1,3 +1,4 @@
-*.psd
-*.jpeg
-*.jpg
+*.psd filter=lfs -text
+*.jpeg filter=lfs -text
+*.jpg filter=lfs -text
+*.mp3 filter=lfs -text
